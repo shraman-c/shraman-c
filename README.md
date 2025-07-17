@@ -1,5 +1,3 @@
-<div align="center">
-  <img src="[https://github.com/user-attachments/assets/dbcade33-74a5-4003-a81e-19f88c9adf65]" alt="Shraman Chaudhuri" width="150" height="150" style="border-radius:50%;"> 
   <h1>Hi there, I'm Shraman Chaudhuri 👋</h1>
   <p>Currently pursuing <b>B. Tech. (Hons.) in CSE with a Specialization in Cyber Security</b>.</p>
 </div>
