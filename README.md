@@ -1,3 +1,4 @@
+<div align="center">
   <h1>Hi there, I'm Shraman Chaudhuri 👋</h1>
   <p>Currently pursuing <b>B. Tech. (Hons.) in CSE with a Specialization in Cyber Security</b>.</p>
 </div>
