@@ -51,7 +51,7 @@ I'm **open to contributions and collaborations** on my projects and always excit
 ---
 
 ### 📊 GitHub Stats
-![shraman-c's Stats](https://github-readme-stats.vercel.app/api?username=shraman-c&theme=nord&show_icons=true&hide_border=false&count_private=true)
+![shraman-c's Streak](https://github-readme-streak-stats.herokuapp.com/?user=shraman-c&theme=vue-dark&hide_border=false)
 
 ### 📊 Most Used Langauges
 ![shraman-c's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shraman-c&theme=nord&show_icons=true&hide_border=false&layout=compact)
